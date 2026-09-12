@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Hillindo.github.io/resources-9hfocr/sitemap.xml
